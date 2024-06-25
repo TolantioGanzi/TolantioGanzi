@@ -3,7 +3,7 @@
 
 I am a current Cyberssecurity Engineering student at Goerge Mason Univeristy with an associates in Cybersecurity. I have a profound interest in Information Technology, specifically networking and security. 
 ## Objective
-With an Associates degree in Cybersecurity and a passion for networking and security, my motivation 
+With an Associates degree in Cybersecurity and a passion for networking and security, I strive to become proficient in Networking and security and land a job as a Network Security Engineer one day! 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -13,7 +13,6 @@ With an Associates degree in Cybersecurity and a passion for networking and secu
 | Setting up and Configuring Active Directory   | <a href="https://github.com/TolantioGanzi/Project_Name/blob/main/README.md">Active Directory Lab</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -26,7 +25,8 @@ With an Associates degree in Cybersecurity and a passion for networking and secu
 
 
 ## Certifications
-CompTIA A+: Core 1: Passed, Core 2: *In Progess*
+<img src="https://img.shields.io/badge/-CompTIA A%2B-FF0000?&style=for-the-badge" />
+
 
 ## Projects
-- <<a href="https://github.com/TolantioGanzi/Project_Name/blob/main/README.md">Active Directory Lab</a>>
+- <a href="https://github.com/TolantioGanzi/Project_Name/blob/main/README.md">Active Directory Lab</a>
